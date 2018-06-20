@@ -11,7 +11,7 @@
 		},
 
 		"DatabaseName" : {
-			"Default": 			"SampleDatab",
+			"Default": 			"SampleDatabase",
 			"Description" : 	"Uses MySQL",
 			"Type" : 			"String",
 			"MinLength": 		"1"
